@@ -1,0 +1,7 @@
+{
+    "name": "PWA-Web-Tracker",
+    "short_name": "PWA",
+    "start_url": ".",
+    "description": "A app that will allow one to manage finances.",
+    "icons": [
+{
